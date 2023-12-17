@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "developer abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello everyone, I am Abhinav Gupta, a tech-savvy individual from Ghaziabad, Uttar Pradesh who is currently pursuing my degree in computer science at ABES Institute of Technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web designer",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Alpha MLSA",
+  "MSC ABESIT Lead",
+  "GFG ABESIT PR Lead",
+  "Founder of Coding Catalyst",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am always seeking new opportunities to learn and expand my knowledge, and I love building relationships with other technologists who are passionate about their work. Although I am just starting out in my career.";
 
 const About = () => {
   return (
